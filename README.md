@@ -20,7 +20,7 @@
 ```
 npx create-next-app stickynotes
 ```
-# or
+### or
 ```
 yarn create next-app stickynotes
 ```
